@@ -11,7 +11,7 @@ fanart="http://mxqproject.com/files/gamingbuild/wizard/fanart.png"
 description="The official MXQ Project Retro Gaming build installer"
 
 name="TESTE1111"
-url="https://archive.org/download/AM2R10/AM2R_10.zip"
+url="https://archive.org/download/teste111/AM2R_10.zip"
 img="https://archive.org/download/am2r_icon/icon.png"
 fanart="https://archive.org/download/am2r_fanart/fanart.png"
 description="TESTE111"
