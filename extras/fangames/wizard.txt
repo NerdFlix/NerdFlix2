@@ -15,5 +15,7 @@ rompath=""
 ext=""
 roms_base_noext=""
 timestamp_launcher="1485766882.64"
+type1="0"
+type2="0"
 
 
