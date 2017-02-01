@@ -17,5 +17,6 @@ _roms_base_noext="None"
 timestamp_launcher="1485766882.64"
 type1="0"
 type2="0"
+Menu="FAN GAMES"
 
 
