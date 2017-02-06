@@ -1,7 +1,7 @@
 name="REFRESH LIST OF NEW GAMES"
 url="None"
 img="https://archive.org/download/REFRESH_201702/REFRESH.png"
-fanart="None"
+fanart="https://archive.org/download/REFRESH_201702/REFRESH.png"
 description="REFRESH LIST OF NEW GAMES"
 id="REFRESH"
 type="None"
