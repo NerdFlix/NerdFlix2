@@ -1,11 +1,11 @@
-name="The MXQ Project Build"
+name="NEW GAMES"
 url="http://mxqproject.com/files/mxqbuild/Wizard/themxqbuild.zip"
 img="http://mxqproject.com/files/mxqbuild/Wizard/icon.png"
 fanart="http://mxqproject.com/files/mxqbuild/Wizard/fanart.png"
 description="A super-lightweight build by The MXQ Project"
 id="NEW_GAMES"
 
-name="The MXQ Project - Retro Gaming Experience"
+name="UPDATE_BUILD"
 url="http://mxqproject.com/files/gamingbuild/wizard/mxqgaming.zip"
 img="http://mxqproject.com/files/gamingbuild/wizard/icon.png"
 fanart="http://mxqproject.com/files/gamingbuild/wizard/fanart.png"
