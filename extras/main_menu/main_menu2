@@ -1,0 +1,21 @@
+<layouttype>thumbnail</layouttype>
+<channels>
+<channel>
+<name>[COLOR red] • [COLOR white] NEW GAMES [/COLOR]</name>
+<thumbnail>https://archive.org/download/new_games/new_games.png</thumbnail>
+<externallink>http://pastebin.com/raw/iHGK463q</externallink>
+<fanart>https://archive.org/download/menu_fanart/menu_fanart.png</fanart>
+<info>DOWNLOAD NEW GAMES</info>
+</channel>
+</channels>
+
+<layouttype>thumbnail</layouttype>
+<channels>
+<channel>
+<name>[COLOR red] • [COLOR white] UPDATE BUILD [/COLOR]</name>
+<thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
+<externallink>http://pastebin.com/raw/7e13BDvw</externallink>
+<fanart>https://archive.org/download/UpdateFanart/update fanart.png</fanart>
+<info>UPDATE N3RD FLIX BUILD</info>
+</channel>
+</channels>
