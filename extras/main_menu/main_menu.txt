@@ -14,7 +14,7 @@ id="NEW_GAMES"
 
 name="UPDATE BUILD"
 url="http://mxqproject.com/files/gamingbuild/wizard/mxqgaming.zip"
-img="http://mxqproject.com/files/gamingbuild/wizard/icon.png"
+img="https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png"
 fanart="http://mxqproject.com/files/gamingbuild/wizard/fanart.png"
 description="UPDATE N3RD FLIX BUILD"
 id="UPDATE BUILD"
