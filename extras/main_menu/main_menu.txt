@@ -1,3 +1,10 @@
+name="REFRESH MENU"
+url="None"
+img="https://archive.org/download/REFRESH_201702/REFRESH.png"
+fanart="https://archive.org/download/REFRESH_201702/REFRESH.png"
+description="REFRESH MENU"
+id="REFRESH MENU"
+
 name="NEW GAMES"
 url="http://mxqproject.com/files/mxqbuild/Wizard/themxqbuild.zip"
 img="http://mxqproject.com/files/mxqbuild/Wizard/icon.png"
