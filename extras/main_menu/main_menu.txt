@@ -12,7 +12,7 @@ fanart="https://archive.org/download/menu_fanart/menu_fanart.png"
 description="DOWNLOAD NEW GAMES"
 id="NEW_GAMES"
 
-name="UPDATE_BUILD"
+name="UPDATE BUILD"
 url="http://mxqproject.com/files/gamingbuild/wizard/mxqgaming.zip"
 img="http://mxqproject.com/files/gamingbuild/wizard/icon.png"
 fanart="http://mxqproject.com/files/gamingbuild/wizard/fanart.png"
