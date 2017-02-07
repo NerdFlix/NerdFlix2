@@ -7,7 +7,7 @@ id="REFRESH MENU"
 
 name="NEW GAMES"
 url="None"
-img="https://archive.org/download/new_games/new_games.pn"
+img="https://archive.org/download/new_games/new_games.png"
 fanart="https://archive.org/download/menu_fanart/menu_fanart.png"
 description="A super-lightweight build by The MXQ Project"
 id="NEW_GAMES"
