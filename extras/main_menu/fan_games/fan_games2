@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<item>
+<title>REFRESH LIST OF NEW GAMES</title>
+<link>http://evp.mm.uol.com.br:1935/jovempanam3/_definst_/jpfm.sdp/chunklist.m3u8</link>
+<thumbnail>https://archive.org/download/REFRESH_201702/REFRESH.png</thumbnail>
+</item>
+<item>
+<title>ZELDA - Project 3rd Quest</title>
+<link>rtmp://evp.mm.uol.com.br/jovempanam2//jpfm.sdp</link>
+<thumbnail>https://archive.org/download/ZELDA-Project3rdQuestIcon/icon.png</thumbnail>
+</item>
+<item>
+<title>AM2R - METROID 2 REMAKE</title>
+<link>http://sc2b-sjc.1.fm:7704/</link>
+<thumbnail>https://archive.org/download/am2r_icon/icon.png</thumbnail>
+</item>
