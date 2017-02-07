@@ -4,6 +4,7 @@ img="https://archive.org/download/REFRESH_201702/REFRESH.png"
 fanart="https://archive.org/download/REFRESH_201702/REFRESH.png"
 description="REFRESH MENU"
 id="REFRESH MENU"
+mode="1"
 
 
 name="NEW GAMES"
@@ -12,6 +13,7 @@ img="https://archive.org/download/new_games/new_games.png"
 fanart="https://archive.org/download/menu_fanart/menu_fanart.png"
 description="DOWNLOAD NEW GAMES"
 id="NEW_GAMES"
+mode="2"
 
 
 name="UPDATE BUILD"
@@ -20,4 +22,5 @@ img="https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png"
 fanart="https://archive.org/download/UpdateFanart/update fanart.png"
 description="UPDATE N3RD FLIX BUILD"
 id="UPDATE BUILD"
+mode="3"
 
