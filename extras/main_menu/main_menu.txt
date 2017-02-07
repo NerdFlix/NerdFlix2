@@ -1,6 +1,6 @@
 name="REFRESH MENU"
 url="None"
-img="https://archive.org/download/REFRESH_201702/REFRESH.png"
+img="https://archive.org/download/new_games/new_games.png"
 fanart="https://archive.org/download/REFRESH_201702/REFRESH.png"
 description="REFRESH MENU"
 id="REFRESH MENU"
