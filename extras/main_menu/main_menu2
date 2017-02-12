@@ -12,10 +12,10 @@
 <layouttype>thumbnail</layouttype>
 <games>
 <game>
-<name>[COLOR red] • [COLOR white] UPDATE BUILD [/COLOR]</name>
+<name>[COLOR red] • [COLOR white] UPDATES [/COLOR]</name>
 <thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/update_build/update_build</externallink>
 <fanart>https://archive.org/download/menu_fanart/menu_fanart.png</fanart>
-<info>UPDATE N3RD FLIX BUILD</info>
+<info>UPDATES</info>
 </game>
 </games>
