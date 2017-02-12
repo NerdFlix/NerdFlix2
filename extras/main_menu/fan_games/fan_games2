@@ -4,16 +4,19 @@
 <title>REFRESH LIST OF NEW GAMES</title>
 <link>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/fan_games/games</link>
 <thumbnail>https://archive.org/download/REFRESH_201702/REFRESH.png</thumbnail>
+<fanart>https://archive.org/download/REFRESH_201702/REFRESH.png</fanart>
 </item>
 <item>
 <title>ZELDA - Project 3rd Quest</title>
 <link>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/fan_games/games</link>
 <thumbnail>https://archive.org/download/ZELDA-Project3rdQuestIcon/icon.png</thumbnail>
+<fanart>https://archive.org/download/ZELDA-Project3rdQuestFanart/maxresdefault.png</fanart>
 </item>
 <item>
 <title>AM2R - METROID 2 REMAKE</title>
 <link>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/fan_games/games</link>
 <thumbnail>https://archive.org/download/am2r_icon/icon.png</thumbnail>
+<fanart>https://archive.org/download/am2r_fanart/fanart.png</fanart>
 </item>
 <item>
 
