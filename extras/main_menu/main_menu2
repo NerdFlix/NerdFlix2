@@ -1,21 +1,21 @@
 <layouttype>thumbnail</layouttype>
-<channels>
-<channel>
+<games>
+<game>
 <name>[COLOR red] • [COLOR white] NEW GAMES [/COLOR]</name>
 <thumbnail>https://archive.org/download/new_games/new_games.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/fan_games/fan_games2</externallink>
 <fanart>https://archive.org/download/menu_fanart/menu_fanart.png</fanart>
 <info>DOWNLOAD NEW GAMES</info>
-</channel>
-</channels>
+</game>
+</games>
 
 <layouttype>thumbnail</layouttype>
-<channels>
-<channel>
+<games>
+<game>
 <name>[COLOR red] • [COLOR white] UPDATE BUILD [/COLOR]</name>
 <thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/update_build/update_build</externallink>
 <fanart>https://archive.org/download/UpdateFanart/update fanart.png</fanart>
 <info>UPDATE N3RD FLIX BUILD</info>
-</channel>
-</channels>
+</game>
+</games>
