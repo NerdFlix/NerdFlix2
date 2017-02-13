@@ -3,15 +3,18 @@
 <item>
 <title>PLAYSTATION 2</title>
 <link>COMING SOON</link>
-<thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/ps2.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/ps2%20fanart.jpg</fanart>
 </item>
 <item>
 <title>GAMECUBE</title>
 <link>COMING SOON</link>
-<thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/gamecube.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/gamecube%20fanart.jpg</fanart>
 </item>
 <item>
 <title>PSP</title>
 <link>COMING SOON</link>
-<thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/PSP.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/psp%20fanart.jpg</fanart>
 </item>
