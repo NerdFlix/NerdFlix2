@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
+<title>3D NES</title>
+<link>COMING SOON</link>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/3D%20NES.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/3D%20Nes%20fanart.png</fanart>
+</item>
+<item>
 <title>PLAYSTATION 2</title>
 <link>COMING SOON</link>
 <thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/ps2.jpg</thumbnail>
