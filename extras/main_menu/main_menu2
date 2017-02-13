@@ -19,3 +19,14 @@
 <info>UPDATES</info>
 </game>
 </games>
+
+<layouttype>thumbnail</layouttype>
+<games>
+<game>
+<name>[COLOR red] • [COLOR white] NEW EMULATORS [/COLOR]</name>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/new%20consoles.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/update_build/update_build</externallink>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/new%20consoles%20fanart%20222.jpg</fanart>
+<info>NEW EMULATORS</info>
+</game>
+</games>
