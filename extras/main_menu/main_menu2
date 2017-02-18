@@ -23,6 +23,17 @@
 <layouttype>thumbnail</layouttype>
 <games>
 <game>
+<name>MAINTENANCE</name>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/maintenance.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/update_build/update_build</externallink>
+<fanart></fanart>
+<info>UPDATES</info>
+</game>
+</games>
+
+<layouttype>thumbnail</layouttype>
+<games>
+<game>
 <name>UPDATES</name>
 <thumbnail>https://archive.org/download/MCRFBUPDATE/MCRFB-UPDATE.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/update_build/update_build</externallink>
