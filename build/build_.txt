@@ -1,5 +1,5 @@
 build="N3rd Flix"
 version="1.0.1"
 fresh="false"
-changelog="UPDTATE VERSION 1.0.1 ADDED MORE IMAGES BACKGROUND; FIXED BUGS."
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
 update_url="https://github.com/NerdFlix/NerdFlix2/raw/master/build/n3rdflix.zip"
