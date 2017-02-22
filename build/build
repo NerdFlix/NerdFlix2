@@ -1,7 +1,6 @@
 <build>N3rd Flix</build>
 <version>1.0.1</version>
-<version_check></version_check>
-<update_url>https://github.com/NerdFlix/NerdFlix2/raw/master/build/n3rdflix.zip</update_url>
 <fresh>false</fresh>
 <changelog>UPDTATE VERSION 1.0.1 ADDED MORE IMAGES BACKGROUND; FIXED BUGS.</changelog>
-<user_agent>n3rdflixAgent</user_agent>
+<update_url>https://github.com/NerdFlix/NerdFlix2/raw/master/build/n3rdflix.zip</update_url>
+
