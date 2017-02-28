@@ -30,3 +30,14 @@
 <info>MAINTENANCE</info>
 </game>
 </games>
+
+<layouttype>thumbnail</layouttype>
+<games>
+<game>
+<name>HELP</name>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/help.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/help/help</externallink>
+<fanart></fanart>
+<info>HELP</info>
+</game>
+</games>
