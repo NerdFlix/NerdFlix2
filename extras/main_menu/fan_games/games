@@ -103,6 +103,27 @@ type1="0"
 type2="0"
 Menu="FAN GAMES"
 
+name="Kaizo Mario 3"
+url="https://archive.org/download/KaizoMario3/Kaizo%20Mario%203.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/dgdgdgdg.png"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/sffssfsfsfsfsff.png"
+description="Kaizo Mario 3"
+id="w7878525e4cc264c8645366642afdfb4"
+type="fs_new_launcher"
+launcherID="w7878525e4cc264c8645366642afdfb4"
+title="Kaizo Mario 3"
+launcher_platform="Nintendo SNES"
+launcher_categoryID="51da2a561474c36a4ab56f28f59594b1"
+application="Z:\portable_data\retroarch\retroarch.exe"
+com="-L Z:\portable_data\retroarch\cores\snes9x_libretro.dll &quot;Z:\portable_data\fangames\Kaizo Mario 3.1\Kaizo Mario 3.1.smc&quot;"
+_rompath="Z:\portable_data\fangames\Kaizo Mario 3.1\"
+_ext="None"
+_roms_base_noext="None"
+timestamp_launcher="1819769071.01"
+type1="0"
+type2="0"
+Menu="FAN GAMES"
+
 
 
 
