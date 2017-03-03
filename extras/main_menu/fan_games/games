@@ -124,6 +124,27 @@ type1="0"
 type2="0"
 Menu="FAN GAMES"
 
+name="Kaizo Mario World 2"
+url="https://archive.org/download/KaizoMarioWorld2/Kaizo%20Mario%20World%202.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/Kaizo%20Mario%20World%202.png"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/kaizo%202.jpg"
+description="Kaizo Mario World 2"
+id="n7878525e4cc264c8645335698afdfb4"
+type="fs_new_launcher"
+launcherID="n7878525e4cc264c8645335698afdfb4"
+title="Kaizo Mario World 2"
+launcher_platform="Nintendo SNES"
+launcher_categoryID="51da2a561474c36a4ab56f28f59594b1"
+application="Z:\portable_data\retroarch\retroarch.exe"
+com="-L Z:\portable_data\retroarch\cores\snes9x_libretro.dll &quot;Z:\portable_data\fangames\Kaizo Mario World 2\Kaizo Mario World 2.smc&quot;"
+_rompath="Z:\portable_data\fangames\Kaizo Mario World 2\"
+_ext="None"
+_roms_base_noext="None"
+timestamp_launcher="1729769071.01"
+type1="0"
+type2="0"
+Menu="FAN GAMES"
+
 
 
 
