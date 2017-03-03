@@ -208,6 +208,27 @@ type1="0"
 type2="0"
 Menu="FAN GAMES"
 
+name="Super Mario Omega"
+url="https://archive.org/download/SuperMarioOmega/Super%20Mario%20Omega.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/Super%20Mario%20Omega.jpg"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/Super%20Mario%20Omega%20fanart.jpg"
+description="Super Mario Omega"
+id="v9985478e4cc264c8021422145afdbg5"
+type="fs_new_launcher"
+launcherID="v9985478e4cc264c8021422145afdbg5"
+title="Super Mario Omega"
+launcher_platform="Nintendo SNES"
+launcher_categoryID="51da2a561474c36a4ab56f28f59594b1"
+application="Z:\portable_data\retroarch\retroarch.exe"
+com="-L Z:\portable_data\retroarch\cores\snes9x_libretro.dll &quot;Z:\portable_data\fangames\Super Mario Omega\Super Mario Omega.sfc&quot;"
+_rompath="Z:\portable_data\fangames\Super Mario Omega\"
+_ext="None"
+_roms_base_noext="None"
+timestamp_launcher="1578669071.01"
+type1="0"
+type2="0"
+Menu="FAN GAMES"
+
 
 
 
