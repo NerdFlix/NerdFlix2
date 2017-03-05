@@ -24,3 +24,15 @@
 <thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/PSP%20logo.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/psp%20fanart.jpg</fanart>
 </item>
+<item>
+<title>CAPCOM CPS3</title>
+<link>COMING SOON</link>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/CAPCOM%20CPS3.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/Capcom-CPS3%20FANART.png</fanart>
+</item>
+<item>
+<title>NINTENDO DS</title>
+<link>COMING SOON</link>
+<thumbnail>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/NINTENDO%20DS.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/NINTENDO%20DS%20FANART.png</fanart>
+</item>
