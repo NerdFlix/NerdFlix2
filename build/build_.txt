@@ -10,3 +10,27 @@ fresh="false"
 changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
 update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
 
+build="N3rd Flix"
+version="1.0.5"
+fresh="false"
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
+update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
+
+build="N3rd Flix"
+version="1.0.6"
+fresh="false"
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
+update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
+
+build="N3rd Flix"
+version="1.0.7"
+fresh="false"
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
+update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
+
+build="N3rd Flix"
+version="1.0.8"
+fresh="false"
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
+update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
+
