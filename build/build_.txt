@@ -1,0 +1,5 @@
+build="N3rd Flix"
+version="1.1.0"
+fresh="false"
+changelog="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/build/changelog"
+update_url="https://archive.org/download/n3rdflix103/n3rdflix103.zip"
