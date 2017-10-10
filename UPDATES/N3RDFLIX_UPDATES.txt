@@ -1,5 +1,11 @@
-name="nothing here yet    "   
+name="UPDATE 1.0.4    "   
 url="https://archive.org/download/nintendo_201708/k.zip"
 img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/720%20x%20720.png"
 fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/1280%20x%20720%20ok.png"
-description=" everything is up to date  "
+description="UPDATE 1.0.4    "
+
+name="UPDATE 1.0.3    "    
+url="https://archive.org/download/nintendo_201708/k.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/720%20x%20720.png"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/1280%20x%20720%20ok.png"
+description="UPDATE 1.0.3    "
