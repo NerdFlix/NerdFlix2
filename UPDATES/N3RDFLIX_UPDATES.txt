@@ -1,5 +1,5 @@
 name="THE BUILD IS UP TO DATE    "  
-url=""
+url="https://www.blablabla14242.com/bla.zip"
 img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/720%20x%20720.png"
 fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/1280%20x%20720%20ok.png"
 description="THE BUILD IS UP TO DATE    "
