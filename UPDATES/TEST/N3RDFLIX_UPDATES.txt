@@ -1,0 +1,11 @@
+name="N3RDFLIX_CUMULATIVE_UPDATE_2017_10_15    "  
+url="https://github.com/NerdFlix/NerdFlix2/raw/master/UPDATES/N3RDFLIX_CUMULATIVE_UPDATE_2017_10_15.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/720%20x%20720.png"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/1280%20x%20720%20ok.png"
+description="N3RDFLIX_CUMULATIVE_UPDATE_2017_10_15    "
+
+name="N3RDFLIX_UPDATE_2017_10_13    "  
+url="https://github.com/NerdFlix/NerdFlix2/raw/master/UPDATES/N3RDFLIX_UPDATE_2017_10_13.zip"
+img="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/720%20x%20720.png"
+fanart="https://raw.githubusercontent.com/NerdFlix/NerdFlix2/master/extras/main_menu/images/1280%20x%20720%20ok.png"
+description="N3RDFLIX_UPDATE_2017_10_13    "
