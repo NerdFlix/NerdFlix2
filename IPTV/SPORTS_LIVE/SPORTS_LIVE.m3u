@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="Assistir Villarreal x Lyon Ao Vivo" tvg-name="Assistir Villarreal x Lyon Ao Vivo" tvg-logo="https://www.futeboltv.com/wp-content/uploads/2018/02/villareal.jpg" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="Assistir Villarreal x Lyon Ao Vivo" tvg-name="Assistir Villarreal x Lyon Ao Vivo" tvg-logo="https://www.futeboltv.com/wp-content/uploads/2018/02/villareal.jpg" group-title="Esportes",Assistir Villarreal x Lyon Ao Vivo
 http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
 #EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esportes",SporTV 2
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
