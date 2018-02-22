@@ -1,0 +1,22 @@
+#EXTINF:-1 tvg-id="Assistir Villarreal x Lyon Ao Vivo" tvg-name="Assistir Villarreal x Lyon Ao Vivo" tvg-logo="https://www.futeboltv.com/wp-content/uploads/2018/02/villareal.jpg" group-title="Esportes",SporTV
+http://aovivo.futeboltv.com:8081/live/16/playlist.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esportes",SporTV 2
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="Esportes",SporTV 3
+http://159.65.167.214/loadbalance/aovivonatv6/tracks-v1a1/index.m3u8?pxAuth=vvMPRsrsPhw8vbwgmADzEWyhWsIPHgA9
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?MEGAMAXIPTV
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="http://logo-logos.com/wp-content/uploads/2016/11/ESPN_logo.png" group-title="Esportes",ESPN
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png" group-title="Esportes",ESPN +
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
+http://bit.ly/2CLHGHf
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+#EXTINF:-1 tvg-id="TV Diario" tvg-name="TV Diario" tvg-logo="http://tvdiario.verdesmares.com.br/img/tvdiario/tv-diario.png" group-title="Esportes",TV Diario
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
