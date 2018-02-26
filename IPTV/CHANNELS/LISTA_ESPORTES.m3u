@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="TESTE" tvg-name="TESTE" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",SporTV
-http://159.89.122.31/loadbalance/foxsports/chunks.m3u8?pxAuth=p50hVtu6tnvzy6uQGI7a0I4yWpkMJxtQ
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?nimblesessionid=1079793
 #EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 #EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="Esportes",SporTV 2
