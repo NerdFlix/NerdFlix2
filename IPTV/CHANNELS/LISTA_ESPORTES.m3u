@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TESTE111" tvg-name="TESTE111" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",TESTE111
+#EXTINF:-1 tvg-id="TESTE222" tvg-name="TESTE222" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",TESTE222
 http://185.38.12.38/sec/1520157434/35343737d1dd589627e7b3fdfa70f6af6a405311badeaccf/ivs/8a/01/b70ae021d877/hls/tracks-3,4/index.m3u8
 #EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="https://s2.glbimg.com/slg_zh7ux4bcKad0jfhoj0Ikn0o=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/e2/e6/93b93c34bd95b28979fa77a2c983.png" group-title="Esportes",SporTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
